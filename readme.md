@@ -6,10 +6,10 @@ Este repositório apresenta a implementação dos padrões de projeto **Decorato
 ## Estrutura do Repositório
 Cada padrão de projeto foi implementado em uma pasta separada, contendo código-fonte e exemplos práticos de aplicação:
 
-- **`observer/`**: Implementação geral do padrão Observer, demonstrando seu funcionamento.
-- **`observer-clinica/`**: Aplicação do padrão Observer em um sistema para clínica médica.
-- **`decorator/`**: Implementação geral do padrão Decorator, demonstrando seu funcionamento.
-- **`decorator-clinica/`**: Aplicação do padrão Decorator em um sistema para clínica médica.
+- **`observer/exemplo1`**: Implementação geral do padrão Observer, demonstrando seu funcionamento.
+- **`observer/exemplo2`**: Aplicação do padrão Observer em um sistema para clínica médica.
+- **`decorator/exemplo1`**: Implementação geral do padrão Decorator, demonstrando seu funcionamento.
+- **`decorator/exemplo2`**: Aplicação do padrão Decorator em um sistema para clínica médica.
 
 ## Tecnologias Utilizadas
 - **Linguagem**: Java
