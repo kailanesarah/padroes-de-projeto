@@ -25,7 +25,7 @@ Cada padrão de projeto foi implementado em uma pasta separada, contendo código
 ## Como Executar
 1. Clone o repositório:
    ```
-   git clone https://github.com/seu-repositorio.git
+   git clone https://github.com/kailanesarah/padroes-de-projeto
    ```
 2. Acesse a pasta do padrão desejado:
    ```
